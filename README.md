@@ -76,9 +76,7 @@ for i in range(0,9):
 
 ### Original Image
 
-
 ![d9 1](https://github.com/Gayathriraj18/Thresholding/assets/94154854/f5bc6464-01dd-4d62-be77-7f9fb1a1397d)
-
 
 ### Global Thresholding
 
@@ -86,9 +84,7 @@ for i in range(0,9):
 
 ![d9 3](https://github.com/Gayathriraj18/Thresholding/assets/94154854/e72d41ea-cb09-495b-a3cf-a0d5fee86826)
 
-
 ![d9 4](https://github.com/Gayathriraj18/Thresholding/assets/94154854/3f7d1afe-fd26-4022-a47b-1b8a2a447b5f)
-
 
 ![d9 5](https://github.com/Gayathriraj18/Thresholding/assets/94154854/5d40a7a0-3912-473a-98ed-8a5dbfb26a85)
 
