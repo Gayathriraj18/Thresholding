@@ -76,7 +76,7 @@ for i in range(0,9):
 
 ### Original Image
 
-![d9 1](https://github.com/Gayathriraj18/Thresholding/assets/94154854/f5bc6464-01dd-4d62-be77-7f9fb1a1397d)
+![output](d9.1.png)
 
 ### Global Thresholding
 
@@ -88,19 +88,20 @@ for i in range(0,9):
 
 ![d9 5](https://github.com/Gayathriraj18/Thresholding/assets/94154854/5d40a7a0-3912-473a-98ed-8a5dbfb26a85)
 
-
+![output](d9.6.png)
 
 
 ### Adaptive Thresholding
 
-![d9 7](https://github.com/Gayathriraj18/Thresholding/assets/94154854/b33a5393-beaa-4146-abae-8fed12d13414)
 
+![output](d9.8.png)
 
-
+![d9 9](https://github.com/Gayathriraj18/Thresholding/assets/94154854/d93f8b3e-cab6-4221-833e-72c7a1c2b9d5)
 
 ### Optimum Global Thesholding using Otsu's Method
 
-![d9 9](https://github.com/Gayathriraj18/Thresholding/assets/94154854/d93f8b3e-cab6-4221-833e-72c7a1c2b9d5)
+![output](d9.7.png)
+
 
 
 ## Result
