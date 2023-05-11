@@ -84,19 +84,27 @@ for i in range(0,9):
 
 ![d9 2](https://github.com/Gayathriraj18/Thresholding/assets/94154854/0af53f29-2d30-42a1-8211-e33a53855160)
 
+![d9 3](https://github.com/Gayathriraj18/Thresholding/assets/94154854/e72d41ea-cb09-495b-a3cf-a0d5fee86826)
 
 
 ![d9 4](https://github.com/Gayathriraj18/Thresholding/assets/94154854/3f7d1afe-fd26-4022-a47b-1b8a2a447b5f)
 
 
+![d9 5](https://github.com/Gayathriraj18/Thresholding/assets/94154854/5d40a7a0-3912-473a-98ed-8a5dbfb26a85)
+
+
+
 
 ### Adaptive Thresholding
+
+![d9 7](https://github.com/Gayathriraj18/Thresholding/assets/94154854/b33a5393-beaa-4146-abae-8fed12d13414)
 
 
 
 
 ### Optimum Global Thesholding using Otsu's Method
 
+![d9 9](https://github.com/Gayathriraj18/Thresholding/assets/94154854/d93f8b3e-cab6-4221-833e-72c7a1c2b9d5)
 
 
 ## Result
