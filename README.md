@@ -76,6 +76,7 @@ for i in range(0,9):
 
 ### Original Image
 
+
 ![d9 1](https://github.com/Gayathriraj18/Thresholding/assets/94154854/f5bc6464-01dd-4d62-be77-7f9fb1a1397d)
 
 
